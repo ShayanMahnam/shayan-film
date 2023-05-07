@@ -20,12 +20,12 @@ Features:
 
 ### Prerequisites
 
-**Node version 14.x**
+**Node version 18.x**
 
 ### Cloning the repository
 
 ```shell
-git clone 
+git clone https://github.com/ShayanMahnam/shayan-film.git
 ```
 
 ### Install packages
